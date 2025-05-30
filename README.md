@@ -49,8 +49,21 @@ Each node (`struct movie_seat`) represents a booking and contains:
 ## 🚀 How to Run
 
 ### Option 1: Run Precompiled `.exe` (Windows)
-1. Double-click `movie_seat_booking.exe`
-2. Follow the terminal prompts
+> 📁 **To Run the Project Executable:**
+> 
+> 1. Download and extract `movie_seat_booking.zip` from the repository.
+> 2. Inside, you'll find `movie_seat_booking.exe`.
+> 3. Double-click the `.exe` file to launch it in the terminal (Windows only).
+> 
+> ⚠️ **Note:** Microsoft Defender SmartScreen may warn you that the file is from an unknown publisher.  
+> This is a standard warning for executables not downloaded from the Microsoft Store or verified publishers.
+> 
+> 👉 You can safely run this file by clicking:
+> 
+> - **"More info" → "Run anyway"**
+> 
+> This executable is compiled from open-source C code available in this repository and is safe to use.
+
 
 ### Option 2: Compile from Source
 Using GCC:
